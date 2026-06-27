@@ -2,7 +2,7 @@
 
 ### End-to-End Data Analytics Project | PostgreSQL + Python + Tableau
 
-![Dashboard Preview]("D:\Project End-to-End\Geographic Sales Analysis\docs\dashboard.png")
+![Dashboard Preview](https://github.com/awaliahftr/geographic-sales-analysis/blob/b4768dd68b9d867fc08349c0507e2570def2c8c6/docs/dashboard.png)
 
 ## 🎯 Problem Statement
 Analisis performa penjualan berdasarkan wilayah geografis untuk mengidentifikasi peluang ekspansi dan optimasi distribusi.
@@ -17,7 +17,7 @@ Analisis performa penjualan berdasarkan wilayah geografis untuk mengidentifikasi
 ## 📌 Key Visualizations
 - 🗺️ **Choropleth Map** – Sales distribution by state
 - 🔵 **Bubble Map** – Sales concentration by city
-- 📈 **Monthly Trend** – Sales performance over time
+- 📈 **Monthly Sales** – Sales performance over time
 - 📊 **KPI Cards** – Total Sales, Profit, Orders, Customers
 
 ## 🗃️ Dataset
@@ -32,3 +32,19 @@ Analisis performa penjualan berdasarkan wilayah geografis untuk mengidentifikasi
 - Los Angeles is top performing city
 
 ## 📂 Project Structure
+├── data/ ← Raw & processed CSV files
+├── sql/ ← PostgreSQL schema & queries
+├── tableau/ ← Tableau workbook
+└── docs/ ← Dashboard screenshot
+
+
+## 🚀 How to Run
+1. Clone repo: `git clone https://github.com/awaliahftr/geographic-sales-analysis.git`
+2. Setup PostgreSQL and run `sql/01_create_schema.sql`
+3. Import data using `sql/02_load_data.sql`
+4. Run analytical queries `sql/03_analytical_queries.sql`
+5. Open Tableau workbook in `tableau/` folder
+
+
+## 👤 Author
+**Awaliah Fitri Nur Ananda** – [GitHub](https://github.com/awaliahftr)
