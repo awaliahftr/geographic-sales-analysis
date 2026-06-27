@@ -32,11 +32,12 @@ Analisis performa penjualan berdasarkan wilayah geografis untuk mengidentifikasi
 - Los Angeles is top performing city
 
 ## 📂 Project Structure
+```
 ├── data/ ← Raw & processed CSV files
 ├── sql/ ← PostgreSQL schema & queries
 ├── tableau/ ← Tableau workbook
 └── docs/ ← Dashboard screenshot
-
+```
 
 ## 🚀 How to Run
 1. Clone repo: `git clone https://github.com/awaliahftr/geographic-sales-analysis.git`
