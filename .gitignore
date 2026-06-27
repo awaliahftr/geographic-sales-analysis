@@ -1,0 +1,21 @@
+# Tableau temporary files
+*.tmp
+*.log
+*.twb.local
+*.tps
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.env
+
+# Large data files (optional)
+# data/raw/*.csv
