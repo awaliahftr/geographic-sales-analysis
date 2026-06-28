@@ -2,7 +2,7 @@
 
 ### End-to-End Data Analytics Project | PostgreSQL + Python + Tableau
 
-![Dashboard Preview](https://github.com/awaliahftr/geographic-sales-analysis/blob/b4768dd68b9d867fc08349c0507e2570def2c8c6/docs/dashboard.png)
+![Dashboard Preview](https://github.com/awaliahftr/geographic-sales-analysis/blob/e8bd3c905687e85cd4dd920c296e266ef2847615/docs/dashboard.png)
 
 ## 🎯 Problem Statement
 Analisis performa penjualan berdasarkan wilayah geografis untuk mengidentifikasi peluang ekspansi dan optimasi distribusi.
